@@ -2,12 +2,7 @@ Davinci
 ============
 
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Total Lines](https://tokei.rs/b1/github/edp963/davinci?category=lines)](https://github.com/edp963/davinci)
-[![Build Status](https://travis-ci.org/edp963/davinci.svg?branch=master)](https://travis-ci.org/edp963/davinci)
-[![GitHub release](https://img.shields.io/github/release/edp963/davinci.svg)](https://github.com/edp963/davinci/releases)
-[![Stargazers over time](https://starcharts.herokuapp.com/edp963/davinci.svg)](https://starcharts.herokuapp.com/edp963/davinci)
 
-> 来自[宜信](https://www.creditease.cn/)[技术研发中心](http://crdc.creditease.cn/)的可视应用平台
 
 **Davinci是一个DVAAS（Data Visualization as a Service）平台解决方案。**
 
@@ -61,7 +56,7 @@ Davinci面向业务人员/数据工程师/数据分析师/数据科学家，致�
 
 * **上传davinci zip包到系统某个目录下，如. /app/davinci，将其解压。解压之后的目录结构如下图所示：**
 
-  <img src="https://github.com/edp963/davinci/raw/master/docs/img/dir.png" alt="" width="600"/>
+  <img src="https://github.com/hanxianzhai/davinci-bin/raw/master/docs/img/dir.png" alt="" width="600"/>
 
   * 0.3版本使用 yaml 作为应用配置文件格式，主要配置项包括：server、datasource（请确保连接地址的正确性，初始化数据库时也会用到！！！）、mail（邮箱服务器必须配置）。
 
@@ -204,34 +199,15 @@ Davinci面向业务人员/数据工程师/数据分析师/数据科学家，致�
 * **输入http://localhost:8080，进入davinci登录界面(super@davinci.com/123456)**
 
 #### 创建source，指定用户名、密码和jdbc url即可
-<img src="https://github.com/edp963/davinci/raw/master/docs/img/source.png" alt="" width="600"/>
+<img src="https://github.com/hanxianzhai/davinci-bin/raw/master/docs/img/source.png" alt="" width="600"/>
 
 #### 创建view，选择对应的source，编写sql（可定义变量）
-<img src="https://github.com/edp963/davinci/raw/master/docs/img/view.png" alt="" width="600"/>
+<img src="https://github.com/hanxianzhai/davinci-bin/raw/master/docs/img/view.png" alt="" width="600"/>
 
 #### 创建widget，选择对应的view，指定图表类型，配置样式
-<img src="https://github.com/edp963/davinci/raw/master/docs/img/widget.png" alt="" width="600"/>
+<img src="https://github.com/hanxianzhai/davinci-bin/raw/master/docs/img/widget.png" alt="" width="600"/>
 
 #### 创建dashboard，加入widget，dashboard内widget可被自由拖拽也可全屏显示
-<img src="https://github.com/edp963/davinci/raw/master/docs/img/dashboard.png" alt="" width="600"/>
+<img src="https://github.com/hanxianzhai/davinci-bin/raw/master/docs/img/dashboard.png" alt="" width="600"/>
 
 #### 以上是简短的功能和用户体验预览，更多强大的细节功能请参见其他部分  
-
-Documentation
-=============
-Please refer to [Davinci用户手册](https://edp963.github.io/davinci/).
-
-Latest Release
-=============
-Please download the latest [RELEASE](https://github.com/edp963/davinci/releases/download/v0.3.0-beta.5/davinci-assembly_3.0.1-0.3.1-SNAPSHOT-dist-beta.5.zip).
-
-Get Help
-============
-The fastest way to get response from our developers is to send email to our mail list edp_support@groups.163.com,
-and you are also welcome to join our WeChat group for online discussion.
-
-![二维码](https://github.com/edp963/edp-resource/raw/master/WeChat.jpg)
-
-License
-============
-Please refer to [LICENSE](https://github.com/edp963/davinci/blob/master/LICENSE) file.

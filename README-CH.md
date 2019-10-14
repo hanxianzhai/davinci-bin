@@ -219,7 +219,7 @@ Davinci面向业务人员/数据工程师/数据分析师/数据科学家，致�
 
 Documentation
 =============
-Please refer to [Davinci用户手册](http://doc.cwag.vip/).
+Please refer to [Davinci用户手册](http://doc.bi.cwag.vip/).
 
 Latest Release
 =============

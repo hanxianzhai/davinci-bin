@@ -8,7 +8,7 @@
 
 ## Document
 [![](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87%E7%89%88-blue.svg)](https://github.com/hanxianzhai/davinci-bin/blob/master/README-CH.md)
-[![](https://img.shields.io/badge/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C-%E4%B8%AD%E6%96%87%E7%89%88-blue.svg)](http://bi.cwag.vip/)
+[![](https://img.shields.io/badge/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C-%E4%B8%AD%E6%96%87%E7%89%88-blue.svg)](http://doc.cwag.vip/)
 
 ## Introduction
 Davinci is oriented towards product managers, business people, data engineers, data analysts, data scientists, etc. It aims to provide a one-stop data visualization solution, which could be both independently used as public cloud/private cloud and integrated into third-party systems as plugin. A simple configuration on Davinci UI can meet multiple visualization requirements. It also supports other visualization features like advanced interaction, industry analysis, pattern searching, social intelligence, etc.
